@@ -1,3 +1,4 @@
+# Introduction
 Home automation is becoming increasingly popular due to its ability to enhance convenience, security, and energy efficiency. One cost-effective and user-friendly way to implement home automation is by using the ESP8266 Wi-Fi module along with the Blynk app. This combination allows users to control their home lights and other devices remotely through a mobile app, making it an ideal DIY project for beginners.
 
 ## Parts Required
